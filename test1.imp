@@ -1,0 +1,16 @@
+x := 1;
+y := 2;
+writeln(x + y);
+if x + y = 3 then
+  writeln(3);
+if x + y <> 3 then
+begin
+  writeln(1);
+  writeln(2)
+end
+else
+begin
+  writeln(2);
+  writeln(3)
+end
+

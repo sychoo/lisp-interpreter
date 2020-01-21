@@ -1,0 +1,24 @@
+x := true;
+y := false;
+writeln(true and true : 10);
+writeln(true and false: 10);
+writeln(false and true : 10);
+writeln(false and false : 10);
+writeln(x and x : 10);
+writeln(x and y : 10);
+writeln(y and x : 10);
+writeln(y and y : 10);
+writeln(true or true : 10);
+writeln(true or false: 10);
+writeln(false or true : 10);
+writeln(false or false : 10);
+writeln(x or x : 10);
+writeln(x or y : 10);
+writeln(y or x : 10);
+writeln(y or y : 10);
+writeln(not true : 10);
+writeln(not false : 10);
+writeln(not x : 10);
+writeln(not y : 10);
+writeln(true or 1)
+
